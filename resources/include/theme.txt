@@ -4,7 +4,7 @@
     !$ColorForegroundSecondary = darkgray
     !$ColorForegroundTertiary = red
 
-    !$ColorBackgroundPrimary = fbfbfb
+    !$ColorBackgroundPrimary = f7f7f7
     !$ColorBackgroundSecondary = gainsboro
     !$ColorBackgroundTertiary = white
 
